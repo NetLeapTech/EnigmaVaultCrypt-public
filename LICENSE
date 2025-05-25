@@ -1,21 +1,27 @@
-MIT License
+# EnigmaVaultCrypt - Custom License
 
-Copyright (c) 2025 NetLeapTech
+**Effective Date:** May 23, 2025
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+**Copyright (c) 2025 RickLangBun**
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+**Contact:** `ricklangbun@tutanota.com`
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+## License Terms
+
+The authorization of this project (EnigmaVaultCrypt) and its source code is subject to the following terms:
+
+1. **Purpose Limitation:** This project and its code are **for personal learning and academic exchange purposes only**. You may view, run, and modify the code for these purposes.
+
+2. **Commercial Use Prohibited:** It is **strictly forbidden** to use any part of this project (including but not limited to code, concepts, design) for any form of commercial activity, for-profit projects, or production environments.
+
+3. **Copying and Distribution Prohibited:** It is **strictly forbidden** to copy, redistribute, or publicly publish the code of this project in any form, except for necessary sharing in clearly defined learning and exchange scenarios, and the license statement and copyright information must be retained.
+
+4. **No Warranty and No Liability:** This project is provided "as is" without any express or implied warranties, including but not limited to warranties of merchantability, fitness for a particular purpose, or non-infringement. **Under no circumstances shall the copyright owner (RickLangBun) be liable for any claims, damages, or other liabilities arising from the use or inability to use this project, whether in contract action, tort, or otherwise.**
+
+5. **Ownership:** All rights to this project, including but not limited to copyright and ultimate ownership, belong to **RickLangBun**.
+
+## Disclaimer
+
+To reiterate, this project code is for educational and demonstration purposes only. It may contain security vulnerabilities and **should never be used in actual applications or for processing sensitive information**. Any use of this code is at the user's own risk and responsibility.
+
+**By downloading, viewing, or using any part of this project, you acknowledge that you have read, understood, and agree to abide by all terms and conditions of this license.**
